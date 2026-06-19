@@ -1,0 +1,12 @@
+# Ignore everything by default...
+*
+
+# ...except the deliverables we want to publish
+!.gitignore
+!.python-version
+!analysis.py
+!notebook.ipynb
+!notebook.py
+!pm_view.py
+!pyproject.toml
+!uv.lock
